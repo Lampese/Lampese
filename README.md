@@ -1,2 +1,1 @@
-![Github](https://api.spencerwoo.com/substats/?source=github&queryKey=lampese)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=lampeset&show_icons=true)
+![](https://cdn.luogu.com.cn/upload/image_hosting/i6k8aqe5.png)
