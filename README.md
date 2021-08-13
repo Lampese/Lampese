@@ -1,1 +1,1 @@
-![](https://cdn.luogu.com.cn/upload/image_hosting/xrzm256k.png)
+[![fDFpQg.png](https://z3.ax1x.com/2021/08/13/fDFpQg.png)](https://imgtu.com/i/fDFpQg)
