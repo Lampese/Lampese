@@ -6,7 +6,7 @@
 - 💻 Using Arch Linux.
 - 🌱 Learning Algorithms and Number Theory.
 - 📝 Regularly write articles about Algorithm.
-- 🧑‍💻 Interested in functional-programming.
+- 🧑‍💻 Researching functional-programming.
 - 🏆 Six years of experience in OI(Olympiad in Informatics).
 
 ### Languages and tools
