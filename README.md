@@ -1,8 +1,6 @@
 # Lampese / 东灯
 ### A senior high school student interested in computer science and functional-programming.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Lampese&show_icons=true&theme=tokyonight&count_private=true)" height="150px" alt="logo">
-
 - 💻 Using Arch Linux.
 - 🌱 Learning Algorithms and Number Theory.
 - 📝 Regularly write articles about Algorithm.
