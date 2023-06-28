@@ -5,7 +5,7 @@
 - 🌱 Learning Algorithms and Number Theory.
 - 📝 Regularly write articles about Algorithm.
 - 🧑‍💻 Researching functional-programming.
-- 🏆 Six years of experience in OI(Olympiad in Informatics).
+- 🏆 Have experience in OI(Olympiad in Informatics).
 
 ### Languages and tools
 <div>
