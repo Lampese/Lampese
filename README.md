@@ -28,4 +28,4 @@
 
 ### Github Stats
 
-![](./github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/Lampese/Lampese/output/github-contribution-grid-snake.svg)
