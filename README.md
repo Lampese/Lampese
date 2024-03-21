@@ -14,7 +14,7 @@
 - [VoxelGeometry](https://github.com/CAIMEOX/VoxelGeometry) / Major Maintainer
 - [Node](https://github.com/nodejs/node) / Contributors
 - [OI-Wiki](https://github.com/OI-wiki/OI-wiki) / Contributors
-- [MoonBit/Core](moonbitlang/core) / Contributors
+- [MoonBit/Core](https://github.com/moonbitlang/core) / Contributors
 
 ### Languages and tools
 <div>
