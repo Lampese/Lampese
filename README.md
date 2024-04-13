@@ -4,7 +4,7 @@
 - 💻 Using Arch Linux and KDE Plasma.
 - 🏆 Have experience in OI(Olympiad in Informatics).
 - 🦕 May have above-average algorithmic capabilities.
-- 📝 Regularly write articles about Algorithm and Number Theory.
+- 📝 Regularly write articles about algorithm and number theory.
 - 🧑‍💻 Researching Functional-Programming and Programming Language Theory.
 
 ### Currently involved in projects
