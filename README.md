@@ -1,8 +1,8 @@
 # Lampese / 东灯
 ### A senior high school graduate interested in computer science and functional-programming.
 
+- 🏢 Working at [@LoroDev](https://github.com/loro-dev/loro).
 - 💻 Using NixOS and KDE Plasma.
-- 🏢 Working at [@Loro](https://github.com/loro-dev/loro).
 - 🏆 Have experience in OI(Olympiad in Informatics).
 - 📝 Regularly write articles about algorithm and number theory.
 - 🧑‍💻 Researching Functional-Programming and Programming Language Theory.
