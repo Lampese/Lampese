@@ -1,7 +1,6 @@
 # Lampese / 东灯
 ### A senior high school graduate interested in computer science and functional-programming.
 
-- 🏢 Working at [@LoroDev](https://github.com/loro-dev/loro).
 - 💻 Using NixOS and KDE Plasma.
 - 🏆 Have experience in OI(Olympiad in Informatics).
 - 📝 Regularly write articles about algorithm and number theory.
@@ -11,8 +10,9 @@
 <details>
   
   <summary>Click the arrow to view.</summary>
-  
-- [Loro](https://github.com/loro-dev/loro) / Working
+
+- [MoonBit](https://www.moonbitlang.com) / Technology Evangelism Consultant
+- [Loro](https://github.com/loro-dev/loro) / Previously worked
 - [MoonBit/Core](https://github.com/moonbitlang/core) / Collaborator
 - [Serein](https://github.com/SereinMC/Serein) / Leader & Major Maintainer
 - [PureEval](https://github.com/PureEval/PureEval) / Leader & Major Maintainer
