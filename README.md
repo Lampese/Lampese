@@ -6,7 +6,7 @@
 - 📝 Regularly write articles about algorithm and number theory.
 - 🧑‍💻 Researching Functional-Programming and Programming Language Theory.
 
-### Currently involved in projects
+### Currently involved in projects or works
 <details>
   
   <summary>Click the arrow to view.</summary>
