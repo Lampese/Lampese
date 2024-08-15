@@ -1,7 +1,7 @@
 # Lampese / 东灯
 ### A senior high school graduate interested in computer science and functional-programming.
 
-- 💻 Using NixOS and KDE Plasma.
+- 💻 Using ArchLinux/NixOS and KDE Plasma.
 - 🏆 Have experience in OI(Olympiad in Informatics).
 - 📝 Regularly write articles about algorithm and number theory.
 - 🧑‍💻 Researching Functional-Programming and Programming Language Theory.
