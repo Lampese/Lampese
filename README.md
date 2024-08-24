@@ -1,5 +1,5 @@
 # Lampese / 东灯
-### A senior high school graduate interested in computer science and functional-programming.
+### A freshman at Wenzhou-Kean University.
 
 - 💻 Using ArchLinux/NixOS and KDE Plasma.
 - 🏆 Have experience in OI(Olympiad in Informatics).
