@@ -7,10 +7,6 @@
 - 🧑‍💻 Researching Functional-Programming and Programming Language Theory.
 
 ### Currently involved in projects or works
-<details>
-  
-  <summary>Click the arrow to view.</summary>
-
 - [MoonBit](https://www.moonbitlang.com) / Technology Evangelism Consultant
 - [Loro](https://github.com/loro-dev/loro) / Previously worked
 - [MoonBit/Core](https://github.com/moonbitlang/core) / Collaborator
