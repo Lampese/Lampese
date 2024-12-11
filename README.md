@@ -8,6 +8,7 @@
 
 ### Currently involved in ⚙️Projects or 🖥️Works
 - 🖥️ [YanJi/燕几图](http://yanji.tech/) / Programming Language Designer
+- 🖥️ [PLCT Lab](https://github.com/plctlab) / Internship Student Mentor
 - 🖥️ [MoonBit](https://www.moonbitlang.com) / Technology Evangelism Consultant
 - 🖥️ [Loro](https://github.com/loro-dev/loro) / Previously worked
 - ⚙️ [MoonBit/Core](https://github.com/moonbitlang/core) / Collaborator
