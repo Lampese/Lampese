@@ -17,7 +17,3 @@
 - ⚙️ [VoxelGeometry](https://github.com/CAIMEOX/VoxelGeometry) / Major Maintainer
 - ⚙️ [Node](https://github.com/nodejs/node) / Contributors
 - ⚙️ [OI-Wiki](https://github.com/OI-wiki/OI-wiki) / Contributors
-
-</details>
-
-[![Lampese's GitHub | Languages Over Time](https://stats.quira.sh/Lampese/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Lampese)
