@@ -1,7 +1,7 @@
 # Lampese / 东灯
 ### A first-year computer science student at Wenzhou-Kean University.
 
-- 💻 Using ArchLinux/NixOS and KDE Plasma.
+- 💻 ~~Using ArchLinux/NixOS and KDE Plasma.~~ Now changed to MacOS
 - 🏆 Have experience in OI(Olympiad in Informatics).
 - 📝 Regularly write articles about algorithm and number theory.
 - 🧑‍💻 Researching Functional-Programming and Programming Language Theory.
