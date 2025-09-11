@@ -6,7 +6,7 @@
 - 🧑‍💻 Researching Functional-Programming and Programming Language Theory.
 
 ### Currently involved in ⚙️Projects or 🖥️Works
-- 🖥️ [YanJi/燕几图](http://yanji.tech/) / Programming Language Designer
+- 🖥️ [Rustica/燕几图](https://github.com/rustica-lang) / Internship Programming Language Engineer
 - 🖥️ [PLCT Lab](https://github.com/plctlab) / Internship Student Mentor
 - 🖥️ [MoonBit/IDEA](https://www.moonbitlang.com) / Previously worked
 - 🖥️ [Loro](https://github.com/loro-dev/loro) / Previously worked
