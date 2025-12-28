@@ -8,7 +8,7 @@
 ### Currently involved in ⚙️Projects or 🖥️Works
 - 🖥️ [Rustica/燕几图](https://github.com/rustica-lang) / Internship Programming Language Engineer
 - 🖥️ [PLCT Lab](https://github.com/plctlab) / Internship Student Mentor
-- 🖥️ [MoonBit/IDEA](https://www.moonbitlang.com) / Previously worked
+- 🖥️ [MoonBit/IDEA](https://www.moonbitlang.com) / AI Intern
 - 🖥️ [Loro](https://github.com/loro-dev/loro) / Previously worked
 - ⚙️ [MoonBit/Core](https://github.com/moonbitlang/core) / Collaborator
 - ⚙️ [Serein](https://github.com/SereinMC/Serein) / Leader & Major Maintainer
