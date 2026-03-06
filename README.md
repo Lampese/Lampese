@@ -16,4 +16,4 @@
 
 2025.12~2026.2 [MoonBit](https://moonbitlang.com) AI Intern
 
-2026.2~ [Calculus Singularity](https://calculus-singularity.com) Team Leader
+2026.2~ [Calculus Singularity](https://calculus-singularity.com) Founder / Team Leader
